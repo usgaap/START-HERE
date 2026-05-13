@@ -11,4 +11,4 @@ The following information will be made available in machine interpretable form:
 >Types and parts <br/>
 >Conditions (a.k.a. assertions, restrictions, constraints) <br/>
 >Key ratios (a.k.a. key performace indicators) <br/>
->Fundamental high level accounting concepts and their relations to other concepts <br/>
+>[Fundamental high level accounting concepts](https://github.com/usgaap/fundamental-concepts) and their relations to other concepts <br/>
