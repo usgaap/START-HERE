@@ -14,5 +14,5 @@ The following information will be made available in machine interpretable form:
 >Line items <br/>
 >[Types and parts](https://github.com/usgaap/types-parts) <br/>
 >Conditions (a.k.a. assertions, restrictions, constraints) <br/>
->Key ratios (a.k.a. key performace indicators) <br/>
+>[Key ratios](https://xbrlsite.azurewebsites.net/seattlemethod/kpi-usgaap/kpi-usgaap_ModelStructure.html) (a.k.a. key performace indicators) <br/>
 >[Fundamental high level accounting concepts](https://github.com/usgaap/fundamental-concepts) and their relations to other concepts <br/>
